@@ -1,0 +1,568 @@
+{    "statuses": [{
+            "created_at": "Wed Oct 26 05:18:11 +0000 2016",
+            "id": 791146887860645888,
+            "id_str": "791146887860645888",
+            "text": "RT @SweetSmile0324: TT\ud83d\ude06\u2764\ufe0f\nCr Naver #\ud2b8\uc640\uc774\uc2a4 #TT #TWICE #\ubbf8\ub098 #MINA https:\/\/t.co\/SJ63JZJvMW",
+            "truncated": false,
+            "entities": {
+                "hashtags": [{
+                        "text": "\ud2b8\uc640\uc774\uc2a4",
+                        "indices": [35, 40]
+                    }, {
+                        "text": "TT",
+                        "indices": [41, 44]
+                    }, {
+                        "text": "TWICE",
+                        "indices": [45, 51]
+                    }, {
+                        "text": "\ubbf8\ub098",
+                        "indices": [52, 55]
+                    }, {
+                        "text": "MINA",
+                        "indices": [56, 61]
+                    }],
+                "symbols": [],
+                "user_mentions": [{
+                        "screen_name": "SweetSmile0324",
+                        "name": "\uc544\ub984\ub2e4\uc6b4\ubbf8\uc18c:)",
+                        "id": 3241238977,
+                        "id_str": "3241238977",
+                        "indices": [3, 18]
+                    }],
+                "urls": [],
+                "media": [{
+                        "id": 791118009284698113,
+                        "id_str": "791118009284698113",
+                        "indices": [62, 85],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo07UIAEKCEd.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo07UIAEKCEd.jpg",
+                        "url": "https:\/\/t.co\/SJ63JZJvMW",
+                        "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                        "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 850,
+                                "h": 567,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 850,
+                                "h": 567,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 791118020982677505,
+                        "source_status_id_str": "791118020982677505",
+                        "source_user_id": 3241238977,
+                        "source_user_id_str": "3241238977"
+                    }]
+            },
+            "extended_entities": {
+                "media": [{
+                        "id": 791118009284698113,
+                        "id_str": "791118009284698113",
+                        "indices": [62, 85],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo07UIAEKCEd.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo07UIAEKCEd.jpg",
+                        "url": "https:\/\/t.co\/SJ63JZJvMW",
+                        "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                        "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 850,
+                                "h": 567,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 850,
+                                "h": 567,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 680,
+                                "h": 454,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 791118020982677505,
+                        "source_status_id_str": "791118020982677505",
+                        "source_user_id": 3241238977,
+                        "source_user_id_str": "3241238977"
+                    }, {
+                        "id": 791118009293090816,
+                        "id_str": "791118009293090816",
+                        "indices": [62, 85],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo09UMAAc6K4.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo09UMAAc6K4.jpg",
+                        "url": "https:\/\/t.co\/SJ63JZJvMW",
+                        "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                        "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "medium": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "large": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 791118020982677505,
+                        "source_status_id_str": "791118020982677505",
+                        "source_user_id": 3241238977,
+                        "source_user_id_str": "3241238977"
+                    }, {
+                        "id": 791118009293156352,
+                        "id_str": "791118009293156352",
+                        "indices": [62, 85],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo09VMAAmP_K.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo09VMAAmP_K.jpg",
+                        "url": "https:\/\/t.co\/SJ63JZJvMW",
+                        "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                        "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 791118020982677505,
+                        "source_status_id_str": "791118020982677505",
+                        "source_user_id": 3241238977,
+                        "source_user_id_str": "3241238977"
+                    }, {
+                        "id": 791118009301504001,
+                        "id_str": "791118009301504001",
+                        "indices": [62, 85],
+                        "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo0_UkAE9XNx.jpg",
+                        "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo0_UkAE9XNx.jpg",
+                        "url": "https:\/\/t.co\/SJ63JZJvMW",
+                        "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                        "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                        "type": "photo",
+                        "sizes": {
+                            "large": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "thumb": {
+                                "w": 150,
+                                "h": 150,
+                                "resize": "crop"
+                            },
+                            "medium": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            },
+                            "small": {
+                                "w": 540,
+                                "h": 360,
+                                "resize": "fit"
+                            }
+                        },
+                        "source_status_id": 791118020982677505,
+                        "source_status_id_str": "791118020982677505",
+                        "source_user_id": 3241238977,
+                        "source_user_id_str": "3241238977"
+                    }]
+            },
+            "metadata": {
+                "iso_language_code": "ht",
+                "result_type": "recent"
+            },
+            "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 339645771,
+                "id_str": "339645771",
+                "name": "Sebby\u30c4",
+                "screen_name": "NgSebby",
+                "location": "Singapore",
+                "description": "\u2604\u25b3Pantone 712 C Apricot & 812 C Neon Magenta",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 99,
+                "friends_count": 181,
+                "listed_count": 0,
+                "created_at": "Thu Jul 21 12:42:43 +0000 2011",
+                "favourites_count": 14661,
+                "utc_offset": 28800,
+                "time_zone": "Singapore",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 16161,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http:\/\/pbs.twimg.com\/profile_background_images\/646549958246531072\/TJlHvmne.jpg",
+                "profile_background_image_url_https": "https:\/\/pbs.twimg.com\/profile_background_images\/646549958246531072\/TJlHvmne.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/731594006887464960\/Cm-03rhQ_normal.jpg",
+                "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/731594006887464960\/Cm-03rhQ_normal.jpg",
+                "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/339645771\/1475997486",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Wed Oct 26 03:23:29 +0000 2016",
+                "id": 791118020982677505,
+                "id_str": "791118020982677505",
+                "text": "TT\ud83d\ude06\u2764\ufe0f\nCr Naver #\ud2b8\uc640\uc774\uc2a4 #TT #TWICE #\ubbf8\ub098 #MINA https:\/\/t.co\/SJ63JZJvMW",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [{
+                            "text": "\ud2b8\uc640\uc774\uc2a4",
+                            "indices": [15, 20]
+                        }, {
+                            "text": "TT",
+                            "indices": [21, 24]
+                        }, {
+                            "text": "TWICE",
+                            "indices": [25, 31]
+                        }, {
+                            "text": "\ubbf8\ub098",
+                            "indices": [32, 35]
+                        }, {
+                            "text": "MINA",
+                            "indices": [36, 41]
+                        }],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [],
+                    "media": [{
+                            "id": 791118009284698113,
+                            "id_str": "791118009284698113",
+                            "indices": [42, 65],
+                            "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo07UIAEKCEd.jpg",
+                            "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo07UIAEKCEd.jpg",
+                            "url": "https:\/\/t.co\/SJ63JZJvMW",
+                            "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                            "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 850,
+                                    "h": 567,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 850,
+                                    "h": 567,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 454,
+                                    "resize": "fit"
+                                }
+                            }
+                        }]
+                },
+                "extended_entities": {
+                    "media": [{
+                            "id": 791118009284698113,
+                            "id_str": "791118009284698113",
+                            "indices": [42, 65],
+                            "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo07UIAEKCEd.jpg",
+                            "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo07UIAEKCEd.jpg",
+                            "url": "https:\/\/t.co\/SJ63JZJvMW",
+                            "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                            "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 850,
+                                    "h": 567,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 850,
+                                    "h": 567,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 680,
+                                    "h": 454,
+                                    "resize": "fit"
+                                }
+                            }
+                        }, {
+                            "id": 791118009293090816,
+                            "id_str": "791118009293090816",
+                            "indices": [42, 65],
+                            "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo09UMAAc6K4.jpg",
+                            "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo09UMAAc6K4.jpg",
+                            "url": "https:\/\/t.co\/SJ63JZJvMW",
+                            "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                            "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                            "type": "photo",
+                            "sizes": {
+                                "medium": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "large": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                }
+                            }
+                        }, {
+                            "id": 791118009293156352,
+                            "id_str": "791118009293156352",
+                            "indices": [42, 65],
+                            "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo09VMAAmP_K.jpg",
+                            "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo09VMAAmP_K.jpg",
+                            "url": "https:\/\/t.co\/SJ63JZJvMW",
+                            "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                            "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                }
+                            }
+                        }, {
+                            "id": 791118009301504001,
+                            "id_str": "791118009301504001",
+                            "indices": [42, 65],
+                            "media_url": "http:\/\/pbs.twimg.com\/media\/Cvqdo0_UkAE9XNx.jpg",
+                            "media_url_https": "https:\/\/pbs.twimg.com\/media\/Cvqdo0_UkAE9XNx.jpg",
+                            "url": "https:\/\/t.co\/SJ63JZJvMW",
+                            "display_url": "pic.twitter.com\/SJ63JZJvMW",
+                            "expanded_url": "https:\/\/twitter.com\/SweetSmile0324\/status\/791118020982677505\/photo\/1",
+                            "type": "photo",
+                            "sizes": {
+                                "large": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "thumb": {
+                                    "w": 150,
+                                    "h": 150,
+                                    "resize": "crop"
+                                },
+                                "medium": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                },
+                                "small": {
+                                    "w": 540,
+                                    "h": 360,
+                                    "resize": "fit"
+                                }
+                            }
+                        }]
+                },
+                "metadata": {
+                    "iso_language_code": "ht",
+                    "result_type": "recent"
+                },
+                "source": "\u003ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003eTwitter for iPhone\u003c\/a\u003e",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 3241238977,
+                    "id_str": "3241238977",
+                    "name": "\uc544\ub984\ub2e4\uc6b4\ubbf8\uc18c:)",
+                    "screen_name": "SweetSmile0324",
+                    "location": "",
+                    "description": "\ud2b8\uc640\uc774\uc2a4 \ubbf8\ub098 \ud32c\uc0ac\uc774\ud2b8^^\uc81c\uc77c \ucc98\uc74c\ubd80\ud130 \ubbf8\ub098\ub97c \uc751\uc6d0\ud574 150424~\/Myoimina\/\u307f\u306a TWICE Mina \u540d\u4e95\u5357sweetsmile0324onlyformina@gmail.com",
+                    "url": "https:\/\/t.co\/gEwTBnCuAX",
+                    "entities": {
+                        "url": {
+                            "urls": [{
+                                    "url": "https:\/\/t.co\/gEwTBnCuAX",
+                                    "expanded_url": "http:\/\/www.sweetsmile0324.kr",
+                                    "display_url": "sweetsmile0324.kr",
+                                    "indices": [0, 23]
+                                }]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 28404,
+                    "friends_count": 3,
+                    "listed_count": 665,
+                    "created_at": "Wed Jun 10 09:29:26 +0000 2015",
+                    "favourites_count": 165,
+                    "utc_offset": -25200,
+                    "time_zone": "Pacific Time (US & Canada)",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 529,
+                    "lang": "zh-cn",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                    "profile_background_image_url_https": "https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http:\/\/pbs.twimg.com\/profile_images\/789485595659636736\/HjCl1U4T_normal.jpg",
+                    "profile_image_url_https": "https:\/\/pbs.twimg.com\/profile_images\/789485595659636736\/HjCl1U4T_normal.jpg",
+                    "profile_banner_url": "https:\/\/pbs.twimg.com\/profile_banners\/3241238977\/1464633069",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 95,
+                "favorite_count": 94,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "ht"
+            },
+            "is_quote_status": false,
+            "retweet_count": 95,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "ht"
+        }],
+    "search_metadata": {
+        "completed_in": 0.033,
+        "max_id": 791146887860645888,
+        "max_id_str": "791146887860645888",
+        "next_results": "?max_id=791146887860645887&q=twice%20TT&count=1&include_entities=1",
+        "query": "twice+TT",
+        "refresh_url": "?since_id=791146887860645888&q=twice%20TT&include_entities=1",
+        "count": 1,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
